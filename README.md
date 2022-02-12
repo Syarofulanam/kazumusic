@@ -1,7 +1,7 @@
-<h2 align="centre">XA Music Player</h2>
+<h2 align="centre">KAZU Music Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/cff3a78b0bbab05e9be21.jpg">
+  <img src="https://telegra.ph/file/baebf26853fb7a16918de.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
